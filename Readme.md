@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/Lesson3/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Lesson3/MainWindow.xaml))
+<!-- default file list end -->
 # Charts Getting Started - Lesson 3 - Bind Chart Series to Data
 
 
